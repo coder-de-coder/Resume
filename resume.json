@@ -1,0 +1,118 @@
+{
+    "basics": {
+        "name": "Mayank Makkar",
+        "label": "Student",
+        "picture": "",
+        "phone": "+917727017130",
+        "website": "",
+        "summary": "Just another student at IIIT Kota with a pinch of humor and quest for Tech.",
+        "location": {
+            "address": "Sri Ganganagar",
+            "postalCode": "335001",
+            "city": "",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "enough__makkar",
+                "url": "https://www.twitter.com/enough__makkar"
+            },
+            {
+                "network": "Github",
+                "username": "enoughmakkar",
+                "url": "https://www.github.com/enoughmakkar"
+            },
+            {
+                "network": "Linkedin",
+                "username": "",
+                "url": "https://www.linkedin.com/in/mayank-makkar-27a683237/"
+            },
+            {
+                "network": "Instagram",
+                "username": "enough_makkar",
+                "url": "https://instagram.com/enough_makkar"
+            }
+        ]
+    },
+    "work": [
+      
+        {
+            "company": "IIIT Kota",
+            "position": "Social Media Cordinator",
+            "website": "https://iiitkota.ac.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Working to manage the social media profiles of the college across all the platforms."
+        },
+       
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.1",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+       
+    ],
+    "publications": [
+        
+    ],
+    "skills": [
+        {
+            "name": "Web Developer",
+            "level": "Rookie",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "NodeJS",
+                "Flask",
+            ]
+        }
+        {
+            "name": "Cyber Security",
+            "level": "Rookie",
+            "keywords": [
+                "Linux",
+                "Python",
+                "Pen Testing",
+                "Computer Networking"
+            ]
+        }
+        {
+            "name": "Adobe Master",
+            "level": "Rookie",
+            "keywords": [
+                "Photoshop",
+                "Lightroom",
+                "Premiere Pro"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English, Hindi, Punjabi",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+      
+        {
+            "name": "Sports",
+            "keywords": [
+                "Table-Tennis"
+                
+            ]
+        }
+    ]
+}
