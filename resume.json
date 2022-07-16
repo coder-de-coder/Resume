@@ -45,7 +45,7 @@
             "startDate": "",
             "endDate": "",
             "summary": "Working to manage the social media profiles of the college across all the platforms."
-        },
+        }
        
     ],
     "education": [
@@ -76,10 +76,10 @@
                 "CSS",
                 "Javascript",
                 "NodeJS",
-                "Flask",
+                "Flask"
             ]
         }
-        {
+        ,{
             "name": "Cyber Security",
             "level": "Rookie",
             "keywords": [
@@ -89,7 +89,7 @@
                 "Computer Networking"
             ]
         }
-        {
+        ,{
             "name": "Adobe Master",
             "level": "Rookie",
             "keywords": [
